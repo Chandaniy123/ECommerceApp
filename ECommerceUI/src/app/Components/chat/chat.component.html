@@ -1,0 +1,107 @@
+<section>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5 col-md-6 col-sm-12 pb-4">
+          <h1>Reviews</h1>
+          <div class="comment mt-2 text-justify float-left" *ngFor="let item of msgArr">
+            <img src={{image}} alt="" class="rounded-circle" width="40" height="40">
+            <h4>{{item.user}}</h4>
+            <span>- {{item.Date|date:"short"}}</span>
+            <br>
+            <p>{{item.msgText}}</p>
+          </div>
+          <div class="text-justify darker mt-4 float-right" *ngFor="let mObj of msgInboxArray" [ngClass]="mObj.user === msgDto.user ? 'in-msg' : 'ex-msg'">
+            <img src={{image}} alt="" class="rounded-circle" width="40" height="40">
+            <h4>{{mObj.user}}</h4>
+            <span> {{mObj.Date|date:'dd/MM/ HH:mm:ss'}} </span>
+            <br>
+            <p>{{mObj.msgText}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-md-6 col-sm-12 pb-4">
+    <div class="col-lg-10 col-md-6 col-sm-12 mt-4">
+        <form id="align-form">
+          <div class="form-group">
+            <h4>Leave a comment</h4>
+            <label for="message">Message</label>
+            <textarea name="msg" id="msg" cols="30" rows="5" class="form-control" style="background-color: rgb(238, 222, 222);" [(ngModel)]="msgDto.msgText"></textarea>
+          </div>
+          <div class="form-group">
+           
+          </div>
+          <div class="form-group">
+            <button type="button" id="post" class="btn" (click)="send()">Post Comment</button>
+          </div>
+        </form>
+      </div>
+      </div>
+      </div>
+      </div>
+  </section>
+  
+
+
+ 
+
+
+  
+
+
+
+
+    
+<!-- 
+   <div class="col-md-6 col-lg-7 col-md-offset-3">
+        <div class="panel panel-default chat-widget">
+        <div class="panel-heading">
+          <h3 class="panel-title"><i class="fa fa-comments"></i> Review</h3>
+        </div>
+        <div class="panel-body">
+          <div class="message"  *ngFor="let item of msgArr">
+              <div class="avatar">
+              <img class="img-circle avatar" alt="chat avatar"  src={{image}}>
+              </div>
+              <h4>{{item.user}}</h4>
+              <div class="message-text-wrapper">
+                <div class="message-text">
+                    {{item.msgText}}
+                </div>
+              </div>
+              <p class="time-stamp"><i class="fa fa-check"></i> {{item.Date|date:"short"}}</p>
+          </div>
+    
+         
+    
+         
+    
+          <div class="message message-right" *ngFor="let mObj of msgInboxArray" [ngClass]="mObj.user === msgDto.user ? 'in-msg' : 'ex-msg'">
+              <div class="avatar">
+              <img class="img-circle avatar" alt="chat avatar"  src={{image}}>
+              </div>
+              <div class="message-text-wrapper">
+                <div class="message-text">
+                    {{mObj.msgText}}
+                </div>
+              </div>
+              <p class="time-stamp"><i class="fa fa-check"></i>{{mObj.Date|date:'dd/MM/ HH:mm:ss'}}</p>
+          </div>
+          </div>
+          <div class="panel-footer">
+            
+            <div class="input-group">
+            <input type="text" placeholder="Press Enter" class="form-control primary" [(ngModel)]="msgDto.msgText">
+            <span class="input-group-btn">
+                <button class="btn btn-primary" type="button" (click)="send()">Send</button>
+            </span>
+          </div>
+          </div>
+      </div>
+    </div> -->
+
+  

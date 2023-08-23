@@ -1,0 +1,127 @@
+<div class="header-top">
+  <div class="container">
+    <ul class="contact-list">
+      <li class="contact-item">
+        <i class="bi bi-envelope"></i>
+        <a href="mailto:info@example.com" class="contact-link">ShopWise935@gmail.com</a>
+      </li>
+      <li class="contact-item">
+        <i class="bi bi-telephone"></i>
+        <a href="tel:+000000000" class="contact-link">+91-1800111100</a>
+      </li>
+      <li class="contact-item">
+        <i class="bi bi-geo-alt"></i>
+        <a href="googlemaps" class="contact-link">Location</a>
+      </li>
+    </ul>
+    <ul class="social-list">
+
+      <li>
+        <a href="#" class="social-link">
+          <i class="bi bi-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="social-link">
+          <i class="bi bi-instagram"></i>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="social-link">
+          <i class="bi bi-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a href="#" class="social-link">
+          <i class="bi bi-youtube"></i>
+        </a>
+      </li>
+
+      <li>
+        <div *ngIf="user && user.role!='Admin'">
+          
+          Welcome, {{user.firstName}}!
+        </div>
+      </li>
+     <!-- <li>
+   
+        <img src={{user.image}}  class="w3-circle w3-margin-right" style="width:46px">
+     
+     </li> -->
+    </ul>
+
+  </div>
+</div>
+
+<!-- <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+  <div class="container">
+    <div class="logo"><b>S<span>ho</span>pW<span>i</span>se</b></div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+      </ul>
+      <div class="d-flex" role="search">
+        <ul class="navbar-list">
+          <li>
+            <a href="#home" class="navbar-link" data-nav-link>Home</a>
+          </li>
+          <li>
+            <a routerLink="products" class="navbar-link" data-nav-link>products</a>
+          </li>
+          <li>
+            <a href="#about" class="navbar-link" data-nav-link>AboutUs</a>
+          </li>
+
+          
+          <li>
+            <a href="/Signup"  
+              *ngIf="!utilityService.isLoggedIn()" class="navbar-link"
+              data-nav-link>Signup</a>
+
+          </li>
+          <li>
+            <a href="#blog" class="navbar-link" routerLink="/orders" *ngIf="utilityService.isLoggedIn()"
+              data-nav-link>Order</a>
+          </li>
+         
+          <li>
+            <a href="#blog" class="navbar-link" (click)="utilityService.logoutUser()"
+              *ngIf="utilityService.isLoggedIn()" data-nav-link>logout</a>
+          </li>
+          <li>
+            <a class="navbar-link" routerLink="/carts" *ngIf="utilityService.isLoggedIn()" data-nav-link>
+              <span class="cart-value">{{count}}</span>
+              <i class="bi bi-cart4 black"></i></a>
+
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav> -->
+
+
+
+
+<router-outlet></router-outlet>
+
+
+<!-- Modal -->
+<!-- <div class="modal fade" id="generalmodal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" #modalTitle></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <ng-container #container></ng-container>
+      </div>
+    </div>
+  </div>
+</div> -->

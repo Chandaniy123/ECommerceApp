@@ -1,0 +1,71 @@
+<!-- <div *ngFor="let item of shoping">
+    <div class="card mb-3">
+        <img src={{item.image}} class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{item.productName}}</h5>
+          <p class="card-text">{{item.description}}</p>
+          <p class="card-text"><small class="text-muted">{{item.price}}</small></p>
+        </div>
+      </div>
+</div>
+
+
+<h2>Total Sum=>{{sum}}</h2>
+
+
+<div> 
+  <a routerLink="order"> Order Now</a>
+</div>
+ -->
+ <div>
+  <div *ngFor="let item of shoping">
+    <div class="card">
+                    <div class="card-header ">
+                            <b><h3>{{item.productName}}</h3></b>
+                    </div>
+        <div class="card-body row">
+            <div class="col-md-4">
+                   <p class="card-text"><img src={{item.image}} width="250px" height="200"/></p>
+            </div>
+                   
+            <div class="col-md-8">
+               <p>  Description: <b>{{item.description}}</b></p> 
+                <br>
+                <p> OfferRate : <b>{{item.offerRate}}</b></p> 
+                <p> Quantity : <b>{{item.quantity}}</b></p> 
+                <br>
+               <p> Price : <b>{{item.price}}</b></p> 
+               <div class="text-right">
+                <a  (click)="openDeleteConfirmation(item.cartId)" class=" btn1 btn btn-danger py-sm-3 px-4 px-sm-5 rounded-pill mt-3">Delete</a>
+                <!-- <button (click)="openDeleteConfirmation(item.cartId)">Delete</button> -->
+
+                <!-- <app-delete-confirmation 
+                  (deleteConfirmed)="onDeleteConfirmed($event)" 
+                  *ngIf="showDeleteConfirmation">
+                </app-delete-confirmation> -->
+              
+              
+              </div>          
+                
+            </div>
+            <div class="col-md-8">
+            
+          </div>
+       
+        
+       
+    </div>
+    
+  </div>
+ </div>
+ 
+<div class="text-right">
+  <button class="btn btn-lg btn-outline-primary"  routerLink="/Payment" >Go Payment</button>
+
+
+</div>
+  
+
+ 
+
+<h2 class="h2">Total Sum : {{sum}}</h2>

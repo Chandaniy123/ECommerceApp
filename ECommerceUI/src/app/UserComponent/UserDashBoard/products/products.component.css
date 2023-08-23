@@ -1,0 +1,21 @@
+.my-container{
+    margin-top: 50px;
+}
+input{
+    border-radius: 12px;
+    border-color:rgb(229, 229, 243) ;
+}
+input:hover{
+    opacity: 0.8;
+    -o-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+.searchbtn:hover
+{
+    
+    opacity: 0.8;
+    -o-transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
+    transition: all .8s ease-in-out;
+}

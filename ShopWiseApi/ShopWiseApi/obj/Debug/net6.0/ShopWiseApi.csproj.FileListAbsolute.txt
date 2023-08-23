@@ -1,0 +1,681 @@
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\E-Commerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\ECommerce\shopwiseapi\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\Final_Api\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\ShopWiseApi (1)\ShopWiseApi (1)\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Humanizer.dll
+D:\Svn Data\prac\chandani\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Humanizer.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\Final_Project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Humanizer.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\CoreCard Ecommerce Website\final_ecommerce\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\appsettings.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.exe
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.deps.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.runtimeconfig.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\ShopWiseApi.pdb
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Dapper.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Humanizer.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.AssemblyReference.cache
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfoInputs.cache
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.AssemblyInfo.cs
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CoreCompileInputs.cache
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.ShopWiseApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopWiseApi.props
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopWiseApi.props
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopWiseApi.props
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\scopedcss\bundle\ShopWiseApi.styles.css
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.csproj.CopyComplete
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\refint\ShopWiseApi.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.pdb
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ShopWiseApi.genruntimeconfig.cache
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\obj\Debug\net6.0\ref\ShopWiseApi.dll
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\Log4net.config
+E:\Angular Project\updated_project\ShopWiseApi\ShopWiseApi\bin\Debug\net6.0\log4net.dll

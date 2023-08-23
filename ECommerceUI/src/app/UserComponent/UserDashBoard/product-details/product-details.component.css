@@ -1,0 +1,43 @@
+.image-thumbnails>img {
+    width: 15%;
+    cursor: pointer;
+    transition: transform 100ms ease-in-out;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
+}
+
+.image-thumbnails>img:hover {
+    transform: scale(1.08);
+}
+.cards{
+    align-items: center;
+}
+.card{
+    align-items: center;
+
+   
+}
+.my-container{
+    margin-top: 40px;
+}
+
+
+.mt-50{
+    margin-top: 50px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+
+
+.bg-teal-400 { 
+    background-color: #26a69a;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+
+.fa {
+        color: red;
+}

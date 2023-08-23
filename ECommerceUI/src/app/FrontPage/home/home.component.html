@@ -1,0 +1,85 @@
+<!-- <section class="section hero" id="home" 
+aria-label="hero">
+<div class="container"> -->
+ 
+  
+  <!-- <div class="hero-content">
+    <p class="section-subtitle">Welcome To ShopWise</p>
+    <h1 class="h1 hero-title">We Are Best  Service Provider</h1>
+    <p class="hero-text">
+      Welcome to our ShopWise!
+
+      Discover the latest trends and find incredible deals on a wide 
+      range of products. From fashion and electronics to home decor and accessories, 
+      we have everything you need to elevate your lifestyle. Our user-friendly interface and intuitive navigation make
+       it easy for you to browse through our extensive collection and find exactly what you're looking for.
+    </p>
+    <a href="#" class="btn">Explore More<i class="fas fa-arrow-right"></i></a>
+    
+    
+  </div>
+  <div class="hero-banner">
+    <img src="../../../assets/images/fashion.jpg" class="img" alt="" width="70%">
+  </div> -->
+<!-- </div>
+</section>  -->
+
+<section class="container position-relative p-0 w-100" id="home">
+  <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+      <a href="" class="navbar-brand p-0">
+          <h1 class="m-0"><b>S<span>ho</span>pW<span>i</span>se</b></h1>
+       
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+          <span class="fa fa-bars"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+          <div class="navbar-nav mx-auto py-0">
+              <a href="#home" class="nav-item nav-link active">Home</a>
+              <a routerLink="products"class="nav-item nav-link">products</a>
+
+              <a routerLink="productCategory"class="nav-item nav-link">Category</a>
+              <a href="#about" class="nav-item nav-link">AboutUs</a> 
+              <a href="#contact" class="nav-item nav-link">Contact</a>
+               
+              <a  class="nav-item nav-link" routerLink="/Users" *ngIf="utilityService.isLoggedIn()"
+              data-nav-link>Dashboard</a>
+              <a  class="nav-item nav-link" (click)="utilityService.logoutUser()"
+              *ngIf="utilityService.isLoggedIn()" data-nav-link>logout</a>
+              <a class="nav-item nav-link" routerLink="/carts" *ngIf="utilityService.isLoggedIn()" data-nav-link>
+                <span class="cart-value">{{count}}</span>
+                <i class="bi bi-cart4 black"></i></a>
+
+          </div>
+          <a href="/Signup"  
+          *ngIf="!utilityService.isLoggedIn()" class="btn btn-primary-gradient rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Signup & Login</a>
+      </div>
+  </nav>
+
+  <div class="container-xxl bg-primary hero-header">
+      <div class="container px-lg-5">
+          <div class="row g-5">
+              <div class="col-lg-8 text-center text-lg-start">
+                <h1 class="text-white mb-4 animated slideInDown" style="font-size: 35px;">Welcome To ShopWise</h1>
+                
+                  <p class="text-white pb-3 animated slideInDown"> Discover a world of convenience and endless 
+                    possibilities as you step into our virtual store. At ShopWise, we pride ourselves on
+                     offering a diverse range of products that cater to your every need. 
+                     Whether you're searching for the latest fashion trends,
+                     cutting-edge electronics, home essentials, or unique gifts, we have it all under one roof.
+                     We understand the excitement of receiving your new purchase promptly. Our efficient logistics partners ensure swift and reliable delivery
+                      straight to your doorstep. Track your orders in real-time and enjoy a stress-free shopping experience.</p>
+                  <a href="" class="btn btn-primary-gradient py-sm-3 px-4 px-sm-5 rounded-pill me-3 animated slideInLeft">Read More</a>
+                  <a href="contactus" class="btn btn-secondary-gradient btn-lg py-sm-3 px-4 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
+              </div>
+              <div class="col-lg-4 d-flex justify-content-center justify-content-lg-end wow fadeInUp" data-wow-delay="0.3s">
+                <div class="owl-carousel screenshot-carousel">
+                  <img class="img-fluid img1"src="../../../assets/images/fashion.jpg" alt="">
+                
+                  
+                </div>
+            </div>
+          </div>
+      </div>
+  </div>
+</section>

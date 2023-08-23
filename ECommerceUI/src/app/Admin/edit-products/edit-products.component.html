@@ -1,0 +1,40 @@
+<app-header></app-header>
+<div class="main-Box">
+    <div class="center">
+        <h1>Edit</h1>
+        <form >
+           
+            <div class="txt_field">
+                <input type="text" #name="ngModel"  name="productName" [(ngModel)]="product.productName" placeholder="product Name" required>
+             
+            </div>
+            <div class="txt_field">
+                <input type="number" #name="ngModel" minlength="2" name="price" [(ngModel)]="product.price" placeholder="product price" required>
+             
+            </div>
+
+            <div class="txt_field">
+                <input type="text" #name="ngModel" minlength="2" name="description" [(ngModel)]="product.description" placeholder="product description" required>
+             
+            </div>
+
+            <div class="txt_field">
+                <input type="text" #name="ngModel" minlength="2" name="category" [(ngModel)]="product.category" placeholder="product category" required>
+             
+            </div>
+
+            <div class="txt_field">
+                <input type="number" #name="ngModel" minlength="2" name="offerRate" [(ngModel)]="product.offerRate" placeholder="product Offerrate" required>
+             
+            </div>
+          
+            <button class="btn btn-warning btn-lg"  (click)="editProducts()">Save</button>
+            &nbsp;
+            <button class="btn btn-danger btn-lg"  (click)="DeleteProducs()">Delete</button>
+                
+           
+        </form>
+    </div>
+
+</div>
+

@@ -1,0 +1,10 @@
+<app-header></app-header>
+<div class="box">
+    <google-map height="1200px"
+            width="2000px"
+            [center]="center"
+            [zoom]="zoom">
+
+<map-marker *ngFor="let markerPosition of markerPositions" [position]="markerPosition" [options]="markerOptions"></map-marker>
+</google-map>
+</div>

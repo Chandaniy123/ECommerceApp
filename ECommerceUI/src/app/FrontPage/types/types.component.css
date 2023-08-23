@@ -1,0 +1,122 @@
+.shop{
+    color: #eee;
+ 
+}
+h2 {
+	color: #000;
+	font-size: 26px;
+	font-weight: 300;
+	text-align: center;
+	text-transform: uppercase;
+	position: relative;
+	margin: 30px 0 60px;
+}
+h2::after {
+	content: "";
+	width: 100px;
+	position: absolute;
+	margin: 0 auto;
+	height: 4px;
+	border-radius: 1px;
+	background: rgb(119,59,245)0;
+	left: 0;
+	right: 0;
+	bottom: -20px;
+}
+
+.shop .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(25rem,1fr));
+    gap:2rem;
+    margin-top: 10px;
+}
+
+.shop .box-container .box{
+    text-align: center;
+    border: 0.2rem solid rgb(250, 242, 242);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.shop .box-container .box:hover .img img{
+    transform: scale(1.1);
+}
+
+.shop .box-container .box:hover .img .icons{
+    transform: translateX(0rem);
+}
+
+.shop .box-container .box .img{
+    position: relative;
+    overflow: hidden;
+}
+
+.shop .box-container .box .img img{
+    height: 20rem;
+}
+
+.shop .box-container .box .img .icons{
+    position: absolute;
+    top: 1rem;
+    left: 2rem;
+    transform: translateX(-10rem);
+}
+
+.shop .box-container .box .img .icons a{
+    display: block;
+    height: 4rem;
+    width: 4rem;
+    line-height: 3.8rem;
+    font-size: 1.7rem;
+    color: #f32c2c;
+    background: #0c4a6e;
+    border-radius: 0.2rem solid #222;
+    margin-top: 1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.shop .box-container .box .img .icons a:hover{
+    color: #fff;
+    background: #129beb;
+}
+
+.shop .box-container .box .content{
+    padding: 2rem;
+}
+
+.shop .box-container .box .content h3{
+    font-size: 2rem;
+    color: #238ac5;
+    padding-bottom: 0.5rem;
+    font-weight: normal;
+}
+
+.shop .box-container .box .content .price{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #141212;
+}
+
+.shop .box-container .box .content .price span{
+    color: gray;
+    font-size: 1.6rem;
+    text-decoration: line-through;
+}
+
+.shop .box-container .box .content .btn{
+    color: rgb(119,59,245);
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background: none;
+	border: 1px solid rgb(119,59,245);
+	padding: 6px 14px;
+	margin-top: 5px;
+	line-height: 16px;
+	border-radius: 20px;
+}
+
+
+.shop .box-container .box .content .btn:hover{
+    background: rgb(119,59,245);
+    color: white;
+}

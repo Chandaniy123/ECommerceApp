@@ -1,0 +1,190 @@
+<!-- 
+<div class="container" id="container">
+	<div class="form-container sign-up-container">
+		<form >
+			<h1>Create Account</h1>
+			<div class="social-container">
+				<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+				<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+				<a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+			</div>
+			<span>or use your email for registration</span>
+			
+            <input type="text" name="firstName" [(ngModel)]="user.firstName" placeholder="first name">
+
+            <input type="text" name="lastName" [(ngModel)]="user.lastName" placeholder="last name">
+
+			<input type="email" name="email" [(ngModel)]="user.email" placeholder="Email" />
+			<input type="address" name="address" [(ngModel)]="user.address" placeholder="Address" />
+            <input type="mobile" name="mobile" [(ngModel)]="user.mobile" placeholder="Mobile No" />
+			<input type="password" name="password" [(ngModel)]="user.password" placeholder="Password" />
+			<button id="btnToggleFireworks" (click)="Register()">Sign Up</button>
+		</form>
+	</div>
+	<div class="form-container sign-in-container">
+		<form action="#">
+			<h1>Sign in</h1>
+			<div class="social-container">
+				<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+				<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+				<a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+			</div>
+			<span>or use your account</span>
+			<input type="email" name="email" [(ngModel)]="email" placeholder="Email" />
+			<input type="password" name="password" [(ngModel)]="password" placeholder="Password" />
+           
+			<a href="#">Forgot your password?</a>
+			<button id="btnToggleFireworks"  (click)="login()">Sign In</button>
+			{{message}}
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+				<h1>Welcome Back!</h1>
+				<p>To keep connected with us please login with your personal info</p>
+				<button class="ghost" id="signIn">Sign In</button>
+			</div>
+			<div class="overlay-panel overlay-right">
+				<h1>Hello, users</h1>
+				<p>Enter your personal details and start journey with us</p>
+				<button class="ghost" id="signUp">Sign Up</button>
+			</div>
+		</div>
+	</div>
+</div>
+ -->
+<div class="container" id="container">
+	<div class="form-container sign-up-container">
+		<form>
+			<h1>Create Account</h1>
+			<div class="social-container">
+				<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+				<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+				<a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+			</div>
+			<span>or use your email for registration</span>
+			<input type="text" name="firstName" minlength="4" [(ngModel)]="user.firstName" placeholder="First Name "
+				#firstName="ngModel" required>
+			<div *ngIf="firstName.invalid && (firstName.dirty || firstName.touched)">
+				<p *ngIf="firstName.errors?.['required']" style="color: red;">
+					FristName is required.</p>
+				<p *ngIf="firstName.errors?.['minlength']" style="color: rgb(27, 58, 197);">
+					FirstName must be at least 4 characters long.
+				</p>
+			</div>
+			<input type="text" name="LastName" minlength="4" [(ngModel)]="user.lastName" #LastName="ngModel"
+				placeholder="Last Name" required>
+			<div *ngIf="LastName.invalid && (LastName.dirty || LastName.touched)" >
+				<p *ngIf="LastName.errors?.['required']" style="color: red;">
+					LastName is required.
+				</p>
+				<p *ngIf="LastName.errors?.['minlength']" style="color: rgb(27, 58, 197);">
+					LastName must be at least 4 characters long.
+				</p>
+			</div>
+			<input type="email" name="email" email [(ngModel)]="user.email" #emails="ngModel" placeholder="Email"
+				required>
+			<div *ngIf="emails.invalid && (emails.dirty || emails.touched)">
+				<p *ngIf="emails.errors?.['required']" style="color: red;">
+					Email is required</p>
+				<p *ngIf="emails.errors?.['email']" style="color: rgb(27, 58, 197);">Invalid email format.</p>
+			</div>
+			<input type="address" name="address" [(ngModel)]="user.address" placeholder="Address" #address="ngModel"
+				required>
+			<div *ngIf="address.invalid && (address.dirty || address.touched)">
+				<p *ngIf="address.errors?.['required']" style="color: red;">
+					Address is required </p>
+			</div>
+			<input type="mobile" name="mobile" minlength="10" [(ngModel)]="user.mobile" placeholder="Mobile No."
+				required #moblie="ngModel">
+			<div *ngIf="moblie.invalid && (moblie.dirty || moblie.touched)" >
+				<p *ngIf="moblie.errors?.['required']" style="color: red;">
+					Mobile No. is required.
+				</p>
+				<p *ngIf="moblie.errors?.['minlength']" style="color: rgb(27, 58, 197);">
+					Mobile No. must be at least 10 Number long.</p>
+			</div>
+			<input type="password" name="password" [(ngModel)]="user.password" #passwords="ngModel"
+				placeholder="Password" required pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$">
+			<div *ngIf="passwords.invalid && (passwords.dirty || passwords.touched)">
+				<p *ngIf="passwords.errors?.['required']" style="color: red;">Password</p>
+				<p *ngIf="passwords.errors?.['pattern']" style="color: rgb(27, 58, 197);">
+					Password should contain at least one uppercase letter, one lowercase letter, and one number.
+				</p>
+			</div>
+			<button id="btnToggleFireworks" (click)="Register()">Sign Up</button>
+		</form>
+	</div>
+
+	<div class="form-container sign-in-container">
+		<form action="#">
+			<h1>Sign in</h1>
+			<div class="social-container">
+				<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+				<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+				<a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+			</div>
+			<span>or use your account</span>
+			<input type="email" name="email" [(ngModel)]="email" email #emailss="ngModel" placeholder="Email"
+				required />
+
+			<div *ngIf="emailss.invalid && (emailss.dirty || emailss.touched)" class="alert">
+				<p *ngIf="emailss.errors?.['required']" style="color: red;"> Email is required</p>
+				<p *ngIf="emailss.errors?.['email']" style="color: rgb(27, 58, 197);">Invalid email format.</p>
+			</div>
+			<input type="password" name="password" [(ngModel)]="password" placeholder="Password" #passwordss="ngModel"
+				required pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$">
+
+			<div *ngIf="passwordss.invalid && (passwordss.dirty || passwordss.touched)" class="alert">
+				<p *ngIf="passwordss.errors?.['required']" style="color: red;">
+					Password
+				</p>
+
+				<p *ngIf="passwordss.errors?.['pattern']" style="color: rgb(27, 58, 197);">
+
+					Password should contain at least one uppercase letter, one lowercase letter, and one number.
+
+				</p>
+
+			</div>
+
+			<a href="#">Forgot your password?</a>
+
+			<button id="btnToggleFireworks" (click)="login()">Sign In</button>
+
+			{{message}}
+
+		</form>
+
+	</div>
+
+	<div class="overlay-container">
+
+		<div class="overlay">
+
+			<div class="overlay-panel overlay-left">
+
+				<h1>Welcome Back!</h1>
+
+				<p>To keep connected with us please login with your personal info</p>
+
+				<button class="ghost" id="signIn">Sign In</button>
+
+			</div>
+
+			<div class="overlay-panel overlay-right">
+
+				<h1>Hello, users</h1>
+
+				<p>Enter your personal details and start journey with us</p>
+
+				<button class="ghost" id="signUp">Sign Up</button>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>

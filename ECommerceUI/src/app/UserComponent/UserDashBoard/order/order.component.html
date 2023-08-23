@@ -1,0 +1,23 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th>UserName</th>
+        <th>Address</th>
+        <th >ProductQuantity</th>
+        <th >TotalSum</th>
+       <th>status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of user_order">
+ 
+       <td>{{user.firstName}} {{user.lastName}}</td>
+       <td>{{user.address}}</td>
+        <td>{{item.productQuantity}}</td>
+        <td>{{item.totslSum}}</td>
+        <td>Paid</td>
+      
+      </tr>
+     
+    </tbody>
+  </table>

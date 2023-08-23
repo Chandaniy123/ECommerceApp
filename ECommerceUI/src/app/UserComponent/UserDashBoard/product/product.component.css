@@ -1,0 +1,43 @@
+
+img {
+    cursor: pointer;
+    transition: transform 100ms ease-in;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+.grid-view .description,
+.grid-view .title {
+    height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.list-view .title {
+    height: 50px;
+    overflow: hidden;
+}
+.list-view .description {
+    height: 75px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.cart-item-view .title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.card-header{
+    background-color:rgb(14,37,78);
+    color: white;
+}
+.card{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border: info;
+    max-width:150rem;
+    margin-right: 20px;
+}
